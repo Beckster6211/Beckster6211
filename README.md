@@ -40,7 +40,7 @@ Or you can ask me technological questions about my journey and things I've done 
 
 ### ✉️ Get in touch 🤙
 
-↖️ You can check out my LinkedIn profile with the link on the left. You can use that to get in touch with me. ⌨️
+↖️ You can check out my LinkedIn profile with the link on the left. You can use that to get in touch with me.
 
 ### Fun fact:
 
@@ -48,7 +48,7 @@ Or you can ask me technological questions about my journey and things I've done 
 <li>Walt Disney was musaphobic (he had an irrational fear of mice) 🐀 </li>
 </ul>
 
-###### I like emojis (you might have guessed)
+###### and I like emojis (you might have guessed)
 
 <!--
 **Beckster6211/Beckster6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
