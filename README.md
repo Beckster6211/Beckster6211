@@ -1,8 +1,8 @@
-### Hi there, this is my GitHub page 👋
+## Hi there, this is my GitHub page 👋
 
-##### My name is Becky
+##### My name is Becky.
 
-###### Only Rebecca if offical or in trouble (so either way I panic)
+###### Only Rebecca if offical or in trouble (so either way I panic 😱)
 
 Before School of Code I was looking after my family and before that I did childcare at college (so the mental age didn't change 😄).
 <br></br>
