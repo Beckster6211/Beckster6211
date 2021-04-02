@@ -12,7 +12,7 @@ My github picture is my teddy Quackers, what I actually look like (Go Wasps! �
 <br></br>
 <img src = "./images/Capture.PNG" width = "180px" height = "auto" />&nbsp; &nbsp;<img src = "./images/Becky Jones SoC Head shot photo.jpg" width = "auto" height = "180px"/>
 
-## ⚙️ Currently working on... 🔧
+## ⚙️ Currently working on... 👷
 
 <ul>
 <li>Building my portfolio</li>
@@ -21,8 +21,11 @@ My github picture is my teddy Quackers, what I actually look like (Go Wasps! �
 <li>Commiting to muscle memory (git commiting)</li>
 </ul>
 
-## Technologies 💻
+## 💻 Technologies and Tools 🛠️
 
+<ul>
+<li>HTML<img src = "https://s3.amazonaws.com/cartoonsmartstreaming/wp-content/uploads/2014/11/tech_taught_html5.png" width = "50px" height = "50px"/> CSS <img src= "https://banner2.cleanpng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" width = "50px" height = "50px" /> JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "50px" height = "50px" /> </li>
+</ul>
 <!--
 **Beckster6211/Beckster6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
