@@ -24,7 +24,8 @@ My github picture is my teddy Quackers, what I actually look like (Go Wasps! �
 ## 💻 Technologies and Tools 🛠️
 
 <ul>
-<li>HTML<img src = "./images/tech_taught_html5.png" width = "auto" height = "50px"/>CSS <img src= "./images/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" width = "auto" height = "50px" />JavaScript <img src="./images/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "auto" height = "50px" /> </li>
+<li>HTML<img src = "./images/tech_taught_html5.png" width = "auto" height = "50px"/>CSS <img src= "./images/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" width = "auto" height = "50px" />JavaScript <img src="./images/1024px-Unofficial_JavaScript_logo_2.svg.png" width = "auto" height = "50px" /></li>
+<li>Netlify <img src = "./images/logomark.png" width = "auto" height = "50px"/>Heroku <img src ="./images/download.png" width = "auto" height = "50px"/></li>
 </ul>
 <!--
 **Beckster6211/Beckster6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
