@@ -8,7 +8,7 @@ Before School of Code I was looking after my family and before that I did childc
 <br></br>
 Now getting into code and tech as I want a career more than a job with the end goal being not dreading the alarm clock going of in the morning (other than it being in the morning 🥱).
 <br></br>
-My github picture is my teddy Quackers, what I actually look like (Go Wasps! 🐝)
+My github picture is my teddy Quackers, heres what I actually look like (Go Wasps! 🐝)
 <br></br>
 <img src = "./images/Capture.PNG" width = "180px" height = "auto" />&nbsp; &nbsp;<img src = "./images/Becky Jones SoC Head shot photo.jpg" width = "auto" height = "180px"/>
 
@@ -29,14 +29,18 @@ My github picture is my teddy Quackers, what I actually look like (Go Wasps! �
 <li>React<img src = "./images/1280px-React-icon.svg.png" width = "auto" height = "50px"/>Node <img src ="./images/node-js-736399_960_720.png" width = "auto" height = "50px"/></li>
 <li>Auth0 <img src = "./images/download (1).png " width = "auto" height = "50px"/></li>
 <li>GitHub <img src = "./images/Octicons-mark-github.svg" width = "auto" height = "50px"/></li>
-<li>Cypress <img src = "./images/q1cwqhahz7jbtfzalznd.png" width = "auto" height = "50px"/> Jest <img src = "./images/download (2).png" width = "auto" height = "50px"/> </li>
+<li>Cypress <img src = "./images/q1cwqhahz7jbtfzalznd.png" width = "auto" height = "50px"/> Jest <img src = "./images/download (2).png" width = "auto" height = "50px"/> (I like testing) </li>
 </ul>
 
 ### Ask me about 🤔
 
 I love animation and cartoons feel free to ask me about Disney, Pixar, Dreamworks, Laika, Aardman, Lionsgate, Tom and Jerry, The Beano... ✏️
 <br></br>
-Or you can ask me technological questions and about my journey and things I've done 🤷‍♀️
+Or you can ask me technological questions about my journey and things I've done 🤷‍♀️
+
+### ✉️ Get in touch 🤙
+
+My LinkedIn: <a href = "https://www.linkedin.com/in/rebecca-jones-b3b5601b6/" target="_blank"></a>
 
 <!--
 **Beckster6211/Beckster6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
