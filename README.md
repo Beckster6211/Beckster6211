@@ -1,6 +1,9 @@
 ### Hi there, this is my GitHub page 👋
 
-<br></br>
+##### My name is Becky
+
+###### Only Rebecca if offical or in trouble (so either way I panic)
+
 Before School of Code I was looking after my family and before that I did childcare at college (so the mental age didn't change 😄).
 <br></br>
 Now getting into code and tech as I want a career more than a job with the end goal being not dreading the alarm clock going of in the morning (other than it being in the morning 🥱)
