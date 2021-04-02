@@ -32,17 +32,17 @@ My github picture is my teddy Quackers, heres what I actually look like (Go Wasp
 <li>Cypress <img src = "./images/q1cwqhahz7jbtfzalznd.png" width = "auto" height = "50px"/> Jest <img src = "./images/download (2).png" width = "auto" height = "50px"/> (I like testing) </li>
 </ul>
 
-### Ask me about 🤔
+## Ask me about 🤔
 
 I love animation and cartoons feel free to ask me about Disney, Pixar, Dreamworks, Laika, Aardman, Lionsgate, Tom and Jerry, The Beano... ✏️
 <br></br>
 Or you can ask me technological questions about my journey and things I've done 🤷‍♀️
 
-### ✉️ Get in touch 🤙
+## ✉️ Get in touch 🤙
 
 ↖️ You can check out my LinkedIn profile with the link on the left. You can use that to get in touch with me.
 
-### Fun fact:
+## Fun fact:
 
 <ul>
 <li>Walt Disney was musaphobic (he had an irrational fear of mice) 🐀 </li>
