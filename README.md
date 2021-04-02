@@ -14,11 +14,12 @@ My github picture is my teddy Quackers, what I actually look like (Go Wasps! �
 
 ### Im currently working on...
 
-*Building my portfolio
-*Developing projects
-*Cementing my skills
-*Commiting to muscle memory (git commiting)
-
+<ul>
+<li>Building my portfolio</li>
+<li>Developing projects</li>
+<li>Cementing my skills</li>
+<li>Commiting to muscle memory (git commiting)</li>
+</ul>
 <!--
 **Beckster6211/Beckster6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,4 +33,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
