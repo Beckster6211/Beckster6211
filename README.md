@@ -9,6 +9,7 @@ Before School of Code I was looking after my family and before that I did childc
 Now getting into code and tech as I want a career more than a job with the end goal being not dreading the alarm clock going of in the morning (other than it being in the morning 🥱).
 
 &nbsp;<img src = "./images/Capture.PNG" width = "100px" height = "auto"/>&nbsp;&nbsp;&nbsp;<img src = "./images/Becky Jones SoC Head shot photo.jpg" width = "auto" height = "100px"/>
+<br><br/>
 The teddy in my github profile picture is Quackers this is what I actually look like (Go Wasps! 🐝)
 
 <!--
