@@ -31,6 +31,13 @@ My github picture is my teddy Quackers, what I actually look like (Go Wasps! �
 <li>GitHub <img src = "./images/Octicons-mark-github.svg" width = "auto" height = "50px"/></li>
 <li>Cypress <img src = "./images/q1cwqhahz7jbtfzalznd.png" width = "auto" height = "50px"/> Jest <img src = "./images/download (2).png" width = "auto" height = "50px"/> </li>
 </ul>
+
+### Ask me about 🤔
+
+I love animation and cartoons feel free to ask me about Disney, Pixar, Dreamworks, Laika, Aardman, Lionsgate, Tom and Jerry, The Beano... ✏️
+<br></br>
+Or you can ask me technological questions and about my journey and things I've done 🤷‍♀️
+
 <!--
 **Beckster6211/Beckster6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
