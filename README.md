@@ -1,4 +1,4 @@
-## Hi there, this is my GitHub page 👋
+# Hi there, this is my GitHub page 👋
 
 #### My name is Becky.
 
@@ -12,7 +12,7 @@ My github picture is my teddy Quackers, what I actually look like (Go Wasps! �
 <br></br>
 <img src = "./images/Capture.PNG" width = "180px" height = "auto" />&nbsp; &nbsp;<img src = "./images/Becky Jones SoC Head shot photo.jpg" width = "auto" height = "180px"/>
 
-### Im currently working on...
+## 🔨 Currently working on... 🔧
 
 <ul>
 <li>Building my portfolio</li>
@@ -20,6 +20,9 @@ My github picture is my teddy Quackers, what I actually look like (Go Wasps! �
 <li>Cementing my skills</li>
 <li>Commiting to muscle memory (git commiting)</li>
 </ul>
+
+## Technologies 💻
+
 <!--
 **Beckster6211/Beckster6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
