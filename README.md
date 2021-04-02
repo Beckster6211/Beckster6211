@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is my Github page 👋
 
 <!--
 **Beckster6211/Beckster6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
