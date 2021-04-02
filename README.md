@@ -12,7 +12,7 @@ My github picture is my teddy Quackers, what I actually look like (Go Wasps! �
 <br></br>
 <img src = "./images/Capture.PNG" width = "180px" height = "auto" />&nbsp; &nbsp;<img src = "./images/Becky Jones SoC Head shot photo.jpg" width = "auto" height = "180px"/>
 
-## 🔨 Currently working on... 🔧
+## ⚙️ Currently working on... 🔧
 
 <ul>
 <li>Building my portfolio</li>
