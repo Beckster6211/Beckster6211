@@ -38,6 +38,8 @@ I love animation and cartoons feel free to ask me about Disney, Pixar, Dreamwork
 <br></br>
 Or you can ask me technological questions about my journey and things I've done 🤷‍♀️
 
+###### Final project on School of Code https://youtu.be/gDi8sqTd88s
+
 ## ✉️ Get in touch 🤙
 
 ↖️ You can check out my LinkedIn profile with the link on the left. You can use that to get in touch with me.
