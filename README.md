@@ -8,7 +8,7 @@ Before School of Code I was looking after my family and before that I did childc
 <br></br>
 Now getting into code and tech as I want a career more than a job with the end goal being not dreading the alarm clock going of in the morning (other than it being in the morning 🥱).
 
-<span></span><img src = "./images/Capture.PNG" width = "100px" height = "auto"/><span></span><img src = "./images/Becky Jones SoC Head shot photo.jpg" width = "auto" height = "100px"/>
+&nbsp;<img src = "./images/Capture.PNG" width = "100px" height = "auto"/>&nbsp;&nbsp;&nbsp;<img src = "./images/Becky Jones SoC Head shot photo.jpg" width = "auto" height = "100px"/>
 
 <!--
 **Beckster6211/Beckster6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
