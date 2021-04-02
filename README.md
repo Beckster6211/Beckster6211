@@ -40,7 +40,15 @@ Or you can ask me technological questions about my journey and things I've done 
 
 ### ✉️ Get in touch 🤙
 
-My LinkedIn: <a href = "https://www.linkedin.com/in/rebecca-jones-b3b5601b6/" rel="noopener noreferrer" target="_blank">Rebecca Jones</a>
+↖️ You can check out my LinkedIn profile with the link on the left. You can use that to get in touch with me. ⌨️
+
+### Fun fact:
+
+<ul>
+<li>Walt Disney was musaphobic (he had an irrational fear of mice) 🐀 </li>
+</ul>
+
+###### I like emojis (you might have guessed)
 
 <!--
 **Beckster6211/Beckster6211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
