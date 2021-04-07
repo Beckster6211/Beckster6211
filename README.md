@@ -20,6 +20,7 @@ My github picture is my teddy Quackers, heres what I actually look like (Go Wasp
 <li>Cementing my skills</li>
 <li>Commiting to muscle memory (git commiting)</li>
 </ul>
+<a href = "https://becky-jones-portfolio.netlify.app/"> Becky Jones Portfolio</a>
 
 ## 💻 Technologies and Tools 🛠️
 
@@ -30,6 +31,9 @@ My github picture is my teddy Quackers, heres what I actually look like (Go Wasp
 <li>Auth0 <img src = "./images/download (1).png " width = "auto" height = "50px"/></li>
 <li>GitHub <img src = "./images/Octicons-mark-github.svg" width = "auto" height = "50px"/></li>
 <li>Cypress <img src = "./images/q1cwqhahz7jbtfzalznd.png" width = "auto" height = "50px"/> Jest <img src = "./images/download (2).png" width = "auto" height = "50px"/> (I like testing) </li>
+
+###### Cypress user flow test of Final project on School of Code EngageMate https://youtu.be/gDi8sqTd88s
+
 </ul>
 
 ## Ask me about 🤔
@@ -37,8 +41,6 @@ My github picture is my teddy Quackers, heres what I actually look like (Go Wasp
 I love animation and cartoons feel free to ask me about Disney, Pixar, Dreamworks, Laika, Aardman, Lionsgate, Tom and Jerry, The Beano... ✏️
 <br></br>
 Or you can ask me technological questions about my journey and things I've done 🤷‍♀️
-
-###### Final project on School of Code https://youtu.be/gDi8sqTd88s
 
 ## ✉️ Get in touch 🤙
 
